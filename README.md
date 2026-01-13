@@ -4,7 +4,7 @@
 💻 Backend & Mobile App Developer  
 📍 Mumbai, India  
 
-🔭 Currently working on backend systems using Spring Boot & Node.js  
+🔭 Currently working on backend systems using Node.js  
 🌱 Learning scalable REST APIs and database design  
 🎯 Aspiring Backend / Full-Stack Developer  
 
